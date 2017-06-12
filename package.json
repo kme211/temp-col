@@ -1,0 +1,14 @@
+{
+  "name": "collision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auto-animation.js",
+  "scripts": {
+    "start": "nano-server --cfg=./config.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nano-static-server": "^1.0.0"
+  }
+}
